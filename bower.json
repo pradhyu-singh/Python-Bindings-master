@@ -1,0 +1,24 @@
+{
+  "name": "flask-restplus",
+  "version": "0.1.0",
+  "description": "Fully featured framework for fast, easy and documented API development with Flask",
+  "keywords": [
+    "flask",
+    "swagger",
+    "flask-restplus",
+    "api",
+    "REST"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./flask_restplus/static/bower/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "swagger-ui": "2.2.10"
+  }
+}
